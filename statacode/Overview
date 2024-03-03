@@ -1,0 +1,15 @@
+This is a dataset that I work on for my job. I'm doing similar things for this exercise as what I do for my work assignments. 
+
+1. imported a csv file
+2. cleaning data
+    - dropping unnecessary variables
+    - through the importation some observation rows were added, so I'm removing those as well
+    - destringing numeric variables
+    - changing the variable names witha  loop func (removing_1)
+3. saving dta as clean.dta
+
+Thenn, in the regression dofile 
+1. generate treatment binary (for regression)
+2. generating new cumulative variables
+3. regressing the cumulative variables on the treatment
+4. plotting the resulting coefficients in a graph
