@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # This is my Final Assignment for the course Coding for Economists
 
+In the pythoncode folder there are 3 python files including the relevant code for python.
+In the statacode folder, I am analysing a dataset from my work, and there are dofiles, the resulting cleaned dataset and resulting graphs. 
+
 ## My  aim is to fulfil the following points
 
 1. Understand folder structure. Perform operations on files in different folders.
